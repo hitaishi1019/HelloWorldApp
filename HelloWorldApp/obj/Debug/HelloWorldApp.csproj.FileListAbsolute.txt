@@ -38,8 +38,6 @@ C:\Users\hitai\Desktop\HelloWorldApp\HelloWorldApp\HelloWorldApp\obj\Debug\Hello
 C:\Users\hitai\Desktop\HelloWorldApp\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.exe
 C:\Users\hitai\Desktop\HelloWorldApp\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.pdb
 C:\Users\hitai\Desktop\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe.config
-C:\Users\hitai\Desktop\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.exe
-C:\Users\hitai\Desktop\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.pdb
 C:\Users\hitai\Desktop\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe
 C:\Users\hitai\Desktop\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.pdb
 C:\Users\hitai\Desktop\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldUtilities.exe
@@ -50,9 +48,11 @@ C:\Users\hitai\Desktop\HelloWorldApp\HelloWorldApp\bin\Debug\System.Web.Http.dll
 C:\Users\hitai\Desktop\HelloWorldApp\HelloWorldApp\bin\Debug\Newtonsoft.Json.dll
 C:\Users\hitai\Desktop\HelloWorldApp\HelloWorldApp\bin\Debug\System.Net.Http.Formatting.dll
 C:\Users\hitai\Desktop\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldUtilities.pdb
+C:\Users\hitai\Desktop\HelloWorldApp\HelloWorldApp\bin\Debug\RestSharp.xml
 C:\Users\hitai\Desktop\HelloWorldApp\HelloWorldApp\bin\Debug\log4net.xml
 C:\Users\hitai\Desktop\HelloWorldApp\HelloWorldApp\bin\Debug\System.Web.Http.xml
 C:\Users\hitai\Desktop\HelloWorldApp\HelloWorldApp\bin\Debug\Newtonsoft.Json.xml
 C:\Users\hitai\Desktop\HelloWorldApp\HelloWorldApp\bin\Debug\System.Net.Http.Formatting.xml
 C:\Users\hitai\Desktop\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.csprojResolveAssemblyReference.cache
-C:\Users\hitai\Desktop\HelloWorldApp\HelloWorldApp\bin\Debug\RestSharp.xml
+C:\Users\hitai\Desktop\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.exe
+C:\Users\hitai\Desktop\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.pdb
