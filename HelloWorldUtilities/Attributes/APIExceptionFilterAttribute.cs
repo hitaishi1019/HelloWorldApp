@@ -27,7 +27,7 @@ namespace HelloWorldUtilities.Attributes
 
     //to handle exceptions
     [AttributeUsage(AttributeTargets.All,AllowMultiple =true)]
-    class APIExceptionFilterAttribute:ExceptionFilterAttribute
+    public class APIExceptionFilterAttribute:ExceptionFilterAttribute
     {
         /// <summary>
         ///     Gets or sets the exception type
