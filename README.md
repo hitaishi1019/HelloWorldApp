@@ -14,4 +14,14 @@ c. The program should support future enhancements for writing to a database, con
 
 d. Write unit tests to support the API.
 
+This application consists of:
+a. "HelloWorldApp" Console Application.
+b.  HelloWorldAPI- A Web API Project to communicate with the console application to support all kinds of applications.
+c.  HelloWorldUtilities- A utility code for reusability.
+d.  HelloWorldAPI.Tests- Project containing unit tests of the solution.
+
 Procedure to Run:
+a. Build the solution(4 Projects).
+b. Set "HelloWorldApp" Project in the solution as a startup project and then start without Debugging.
+
+
